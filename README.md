@@ -3,7 +3,6 @@
 - You can visit the live website [here](https://www.moshified.com/).
 - Make sure to check out all Mosh's comprehensive courses [here](https://codewithmosh.com/courses) aswell.
 #
-‎
 **Some notes about the markups and styles:**
 - They are based on BEM (Block Element Modifier) naming convention.
 - All the images are provided in Mosh's course and are optimized manually with Photoshop.
